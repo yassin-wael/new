@@ -27,7 +27,7 @@ ul li
 {
     list-style: none;
 }
-li 
+li
 {
   display: inline-flex;
   justify-content: space-evenly;
