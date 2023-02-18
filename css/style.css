@@ -21,7 +21,6 @@ body
 }
 a
 {
-  color: white;
   text-decoration: none;
 }
 ul li
@@ -36,5 +35,11 @@ li
   padding: 10px 15px;
   border: 2px solid white;
   border-radius: 20px;
+  transition: 0.3s ease-in-out;
+}
+li:hover
+{
+  background: white;
+  color: black;
 }
 
